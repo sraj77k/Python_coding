@@ -1,0 +1,8 @@
+Hand on experience in USB Interoperability test using multiple devices for Gen1x1, Gen2x1 and work for the lower power state between (U1-U3 state).
+• Hand on experience in USB4 testcase using TBT2, TBT3 devices with low power state mode.
+• Work on Display port Compliance testcases using M42d Analyzer.
+• Hand on experience Power Measurement for USB3, USB4, Display port with all the Gen Specification.
+• Able to understand the Test script and failure for test the debug in SOC when facing issue.
+• Higley contributing to Analyzing failure testcase from the log file and involve in debugging issue.
+• Automation the test cases as for the requirement using python.
+• Create and manage validation Test Plans including Analysis, Development, Validation Plan and Report form.
